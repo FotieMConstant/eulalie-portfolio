@@ -24,7 +24,7 @@ function Appbar(){
         })
     }
   
-
+    
     // function to navToggle menu on mobile
   function navToggle(){
         const btn = document.getElementById('menuBtn');

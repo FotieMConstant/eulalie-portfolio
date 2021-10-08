@@ -3,7 +3,7 @@ import React from 'react';
 
 function AboutMe(){
     return(
-        <div>
+        <div id="aboutme">
             {/* hero */}
         <div class="hero bg-gray-100 py-16">
           {/* container */}
