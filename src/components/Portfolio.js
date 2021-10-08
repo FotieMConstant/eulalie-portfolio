@@ -50,7 +50,6 @@ function Portfolio(){
   }
       useEffect(() => {
         __initProjects();
-        console.log(Project)
     }, []);
 
     return(
